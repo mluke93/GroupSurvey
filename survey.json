@@ -1,0 +1,190 @@
+{
+  "surveyName": "Dragon Matching",
+  "description": "Come in, youngsters! The best way to match you up with a dragon companion is getting to know you just a little bit. So please, let's talk. Let's see... how many of you are there, again?",
+  "questions" : [
+    {
+      "number": 1,
+      "question": "Question 1",
+      "answers": [
+        {
+          "text": "Answer 1",
+          "value": "armor_dragon"
+        },
+        {
+          "text": "Answer 2",
+          "value": "blast_dragon"
+        },
+        {
+          "text": "Answer 3",
+          "value": "bruiser_dragon"
+        },
+        {
+          "text": "Answer 4",
+          "value": "earth_dragon"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "question": "Question 2",
+      "answers": [
+        {
+          "text": "Answer 1",
+          "value": "armor_dragon"
+        },
+        {
+          "text": "Answer 2",
+          "value": "blast_dragon"
+        },
+        {
+          "text": "Answer 3",
+          "value": "bruiser_dragon"
+        },
+        {
+          "text": "Answer 4",
+          "value": "earth_dragon"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "question": "Question 3",
+      "answers": [
+        {
+          "text": "Answer 1",
+          "value": "armor_dragon"
+        },
+        {
+          "text": "Answer 2",
+          "value": "blast_dragon"
+        },
+        {
+          "text": "Answer 3",
+          "value": "bruiser_dragon"
+        },
+        {
+          "text": "Answer 4",
+          "value": "earth_dragon"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "question": "Question 4",
+      "answers": [
+        {
+          "text": "Answer 1",
+          "value": "armor_dragon"
+        },
+        {
+          "text": "Answer 2",
+          "value": "blast_dragon"
+        },
+        {
+          "text": "Answer 3",
+          "value": "bruiser_dragon"
+        },
+        {
+          "text": "Answer 4",
+          "value": "earth_dragon"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "question": "Question 5",
+      "answers": [
+        {
+          "text": "Answer 1",
+          "value": "armor_dragon"
+        },
+        {
+          "text": "Answer 2",
+          "value": "blast_dragon"
+        },
+        {
+          "text": "Answer 3",
+          "value": "bruiser_dragon"
+        },
+        {
+          "text": "Answer 4",
+          "value": "earth_dragon"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "armor_dragon",
+      "name": "Armor Dragon",
+      "description": "A vigilant dragon with a strong sense of justice. It's known for being amongst the most protective of dragons.",
+      "image": "/images/Armor%20Dragon.jpg"
+    },
+    {
+      "id": "blast_dragon",
+      "name": "Blast Dragon",
+      "description": "A feisty dragon with a bit of a temper. It's strength comes with its unbridled rage.",
+      "image": "/images/Blast%20Dragon.jpg"
+    },
+    {
+      "id": "bruiser_dragon",
+      "name": "Bruiser Dragon",
+      "description": "A headstrong dragon that packs a wicked punch. It doesn't always listen, but when it cooperates, it's a powerful ally.",
+      "image": "/images/Bruiser%20Dragon.jpg"
+    },
+    {
+      "id": "earth_dragon",
+      "name": "Earth Dragon",
+      "description": "A docile dragon that prefers not to fight. It loves to travel, and appreciates all things nature.",
+      "image": "/images/Earth%20Dragon.jpg"
+    },
+    {
+      "id": "fairy_dragon",
+      "name": "Fairy Dragon",
+      "description": "A cute dragon with a very introverted personality. It takes times to earn its trust, but learns to love more than any other kind of dragon.",
+      "image": "/images/Fairy%20Dragon.jpg"
+    },
+    {
+      "id": "fire_dragon",
+      "name": "Fire Dragon",
+      "description": "A playful dragon with a very naive and youthful personality. It has long way to mature, but, once grown, becomes a very powerful companion.",
+      "image": "/images/Fire%20Dragon.jpg"
+    },
+    {
+      "id": "lightning_dragon",
+      "name": "Lightning Dragon",
+      "description": "An aloof dragon with incredible speed. It tends to have a hard time trusting others, so consider yourself lucky if you manage to earn the trust of one.",
+      "image": "/images/Lightning%20Dragon.jpg"
+    },
+    {
+      "id": "marsh_dragon",
+      "name": "Marsh Dragon",
+      "description": "A curious dragon that hates to be alone. It loves to bathe in the water, but never wants to be too far from its friends.",
+      "image": "/images/Marsh%20Dragon.jpg"
+    },
+    {
+      "id": "rainbow_dragon",
+      "name": "Rainbow Dragon",
+      "description": "An intelligent dragon that acts more strategically than other dragons. It prefers to wait and observe before making any rash actions.",
+      "image": "/images/Rainbow%20Dragon.jpg"
+    },
+    {
+      "id": "regal_dragon",
+      "name": "Regal Dragon",
+      "description": "A heroic dragon that puts itself in danger for those who can't protect themselves. As a royal dragon, it believes it's its job to do so.",
+      "image": "/images/Regal%20Dragon.jpg"
+    },
+    {
+      "id": "shadow_dragon",
+      "name": "Shadow Dragon",
+      "description": "A patient dragon that allows others to endanger themselves before stepping forward. It has an incredible amount of power, but it's very draining to use it all.",
+      "image": "/images/Shadow%20Dragon.jpg"
+    },
+    {
+      "id": "war_dragon",
+      "name": "War Dragon",
+      "description": "A hard-working dragon that wants to fight, nonstop. It hates to rest, and it hates to wait.",
+      "image": "/images/War%20Dragon.jpg"
+    }
+  ]
+}

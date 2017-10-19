@@ -1,0 +1,48 @@
+/*html, body {*/
+    /*height: 100%;*/
+/*}*/
+
+body {
+    background-color: grey;
+}
+
+#main {
+    width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    height: 100%;
+}
+
+#title, #results {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#header {
+    text-align: center;
+}
+
+#submitButton {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#submitButton button {
+    width: 25%;
+}
+
+#res h3 {
+    margin: 0;
+}
+
+#res h4 {
+    margin: 5px;
+}
+
+#res img {
+    border: 1px solid #021a40;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
